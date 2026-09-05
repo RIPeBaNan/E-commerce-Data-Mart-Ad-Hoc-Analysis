@@ -9,7 +9,7 @@
 * **Ключевые навыки:** CTE (Common Table Expressions), агрегатные и оконные функции, JOIN, работа с датами (`DATE_TRUNC`, `EXTRACT`), приведение типов, условные конструкции (`CASE`).
 
 ## Структура репозитория
-
+```
 E-commerce_Data_Mart_Ad-Hoc_Analysis/
 ├── README.md                      # Главное описание проекта
 ├── sql/                           # Скрипты базы данных
@@ -18,6 +18,7 @@ E-commerce_Data_Mart_Ad-Hoc_Analysis/
 │   └── dataset_link.txt           # Текстовый файл со ссылкой на дамп базы
 └── .gitignore                     # Файл, указывающий Git, что не нужно загружать
 
+```
 
 ## Выполненные задачи
 
