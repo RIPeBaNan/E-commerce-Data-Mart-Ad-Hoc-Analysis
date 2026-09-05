@@ -1,0 +1,23 @@
+# Temp file
+*.sql.gz
+*.zip
+*.tar
+data/*.sql
+data/*.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE temp file
+.dbeaver/
+.idea/
+.vscode/
+
+# Environments
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+venv/
+envе
